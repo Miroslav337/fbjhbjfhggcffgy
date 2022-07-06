@@ -1,0 +1,50 @@
+h2{
+    text-align: center;
+}
+img{
+    border:2px solid brown;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    background-color: greenyellow;
+    color: darkblue;
+    border: 2px solid navy;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.mir{
+    border: 2px solid black;
+    border-radius: 10px;
+    color: black;
+    background-color: orange;
+    
+
+}
+p{
+    background-color: lightblue;
+    color: navy;
+    border:2px solid grey;
+    border-radius: 10px;
+}
+.dd{
+    border: 1px solid brown;
+    border-radius: 10px;
+    color: red;
+    background-color: silver;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+
+}
+a{
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: gray;
+    color: navy;
+    margin: 3px;
+    padding: 3px;
+
+}
